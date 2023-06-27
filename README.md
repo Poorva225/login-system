@@ -1,5 +1,6 @@
 # login-system
 This is simple Login-system using express application
 
-![Screenshot (123)](https://github.com/Poorva225/login-system/assets/94921286/3087d7d2-76cc-409a-97c9-9858620547bf)
-![Screenshot (124)](https://github.com/Poorva225/login-system/assets/94921286/f2146e5a-8ce8-422d-973c-a4ab9446b7fd)
+![Screenshot (126)](https://github.com/Poorva225/login-system/assets/94921286/13e93149-785b-4b42-b48b-e4178b4acbd4)
+![Screenshot (127)](https://github.com/Poorva225/login-system/assets/94921286/54e65f42-a63d-48c4-9a63-b7a3d68087a4)
+![Screenshot (128)](https://github.com/Poorva225/login-system/assets/94921286/7143acd7-f627-4726-9c7f-2484c304ccef)
